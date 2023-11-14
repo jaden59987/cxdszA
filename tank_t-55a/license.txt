@@ -1,0 +1,11 @@
+Model Information:
+* title:	TANK T-55A
+* source:	https://sketchfab.com/3d-models/tank-t-55a-b3b39c71e9fa40348b9e7ea3e624ddb1
+* author:	ᗩᒪE᙭. Kᗩ.🚗 (https://sketchfab.com/Alex.Ka.)
+
+Model License:
+* license type:	CC-BY-NC-ND-4.0 (http://creativecommons.org/licenses/by-nc-nd/4.0/)
+* requirements:	Author must be credited. No commercial use. Modified versions can not be distributed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "TANK T-55A" (https://sketchfab.com/3d-models/tank-t-55a-b3b39c71e9fa40348b9e7ea3e624ddb1) by ᗩᒪE᙭. Kᗩ.🚗 (https://sketchfab.com/Alex.Ka.) licensed under CC-BY-NC-ND-4.0 (http://creativecommons.org/licenses/by-nc-nd/4.0/)
